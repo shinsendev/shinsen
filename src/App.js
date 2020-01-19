@@ -20,11 +20,12 @@ function App() {
                 <section>
                     <h2>Derrière Shinsen</h2>
 
-                    <p>Je m'appelle <a target='_blank' href="https://www.linkedin.com/in/ga%C3%A9tan-darqui%C3%A9-502160a7/">Gaétan Darquié</a>, je suis développeur Symfony orienté React. </p>
+                    <p>Je m'appelle <a target='_blank' href="https://www.linkedin.com/in/ga%C3%A9tan-darqui%C3%A9-502160a7/">Gaétan Darquié</a>, je suis développeur Symfony orienté React. Vous pouvez me retrouver sur github <a
+                        href="https://github.com/gdarquie" target='_blank'>ici</a>.</p>
 
                     <p>J’ai travaillé à l'université pendant 7 ans en développant ou dirigeant des projets en humanités numériques et je suis docteur en <a href="https://fr.wikipedia.org/wiki/Sciences_de_l%27information_et_de_la_communication" target='_blank'>SIC</a>.</p>
 
-                    <p>En 2015, j'ai rejoint le secteur privé, j'ai d'abord occupé la place de développeur Symfony chez <a
+                    <p>En 2017, j'ai rejoint le secteur privé, j'ai d'abord occupé la place de développeur Symfony chez <a
                         href="https://www.ensembl.fr/" target='_blank'>Ensembl'</a> puis de développeur data chez <a
                         href="https://www.socloz.com/" target='_blank'>SoCloz</a> et enfin de CTO à <a href="https://lafourche.fr/" target='_blank'>La Fourche</a>.</p>
 
@@ -36,7 +37,7 @@ function App() {
                 <section>
                     <h2>Services proposés</h2>
 
-                    <p>Shinsen vous propose des missions en tant que freelance pour du développement web, ma qualification principale concerne PHP et Symfony, je travaille avec Symfony depuis 2012 et je monte actuellement en compétence sur React.</p>
+                    <p>Shinsen vous propose des missions en tant que freelance pour du développement web, ma qualification principale concerne PHP et Symfony, je travaille avec Symfony depuis 2015 et je monte actuellement en compétence sur React.</p>
 
                     <p>Je suis capable de vous apporter des bases devOps (Cloud, Git, CI, déploiement) et suis ouvert à des missions qui me permettraient de découvrir d'autres framework ou langages.</p>
 
