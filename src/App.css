@@ -12,6 +12,10 @@
 .home-header {
 }
 
+h1 {
+    text-transform: none;
+}
+
 h1, h2 {
     color: #c97171;
 }
