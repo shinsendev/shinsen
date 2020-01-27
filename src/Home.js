@@ -39,13 +39,13 @@ export class Home extends React.Component {
                         <p>Je m'appelle <a target='_blank' href="https://www.linkedin.com/in/ga%C3%A9tan-darqui%C3%A9-502160a7/">Gaétan Darquié</a>, je suis développeur Symfony orienté React. Vous pouvez me retrouver sur github <a
                             href="https://github.com/gdarquie" target='_blank'>ici</a>.</p>
 
-                        <p>J’ai travaillé à l'université pendant 7 ans en développant ou dirigeant des projets en humanités numériques et je suis docteur en <a href="https://fr.wikipedia.org/wiki/Sciences_de_l%27information_et_de_la_communication" target='_blank'>SIC</a>.</p>
+                        <p>J’ai travaillé à l'université pendant 7 ans en <a href='http://musicalmc2.labex-arts-h2h.fr/fr/content/plate-forme-num%C3%A9rique' target='_blank'>développant</a> ou <a href='http://prevu.fr/' target='_blank'>dirigeant</a> des projets en humanités numériques et je suis docteur en <a href="https://fr.wikipedia.org/wiki/Sciences_de_l%27information_et_de_la_communication" target='_blank'>SIC</a>.</p>
 
                         <p>En 2017, j'ai rejoint le secteur privé, j'ai d'abord occupé la place de développeur Symfony chez <a
                             href="https://www.ensembl.fr/" target='_blank'>Ensembl'</a> puis de développeur data chez <a
                             href="https://www.socloz.com/" target='_blank'>SoCloz</a> et enfin de CTO à <a href="https://lafourche.fr/" target='_blank'>La Fourche</a>.</p>
 
-                        <p>Aujourd'hui j'ai décidé de me lancer ma propre structure et de commencer une nouvelle aventure avec Shinsen.</p>
+                        <p>Aujourd'hui j'ai décidé de lancer ma propre structure et de commencer une nouvelle aventure avec Shinsen.</p>
 
                         <p>Je suis basé sur Paris et mon bureau est à <a href="https://la-ruche.net/ruche/paris/" target='_blank'>La Ruche</a>.</p>
                     </section>
@@ -57,7 +57,7 @@ export class Home extends React.Component {
 
                         <p>Je suis capable de vous apporter des bases devOps (Cloud, Git, CI, déploiement) et suis ouvert à des missions qui me permettraient de découvrir d'autres framework ou langages.</p>
 
-                        <p>Je serai également présent pour vous aider dans la conception de votre projet numérique, vous aider à rédiger des appels à projets, à mettre en place ou améliorer vos processus SCRUM et décrire en tickets ou cahier(s) des charges des taches techniques complexes si vous le désirez.</p>
+                        <p>Je serai également présent pour vous aider dans la conception de votre projet numérique, vous aider à rédiger des appels à projets, à mettre en place ou améliorer vos processus SCRUM et décrire en tickets ou cahier(s) des charges des tâches techniques.</p>
 
                     </section>
 
